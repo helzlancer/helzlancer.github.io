@@ -48,8 +48,11 @@ a:focus {
     outline: 0;
 }
 
-h1,h2,h3,h4,h5,h6 {
+h2,h3,h4,h5,h6 {
     font-family: 'Slim Joe Normal';
+}
+h1{
+    font-family: 'Dancing Script';
 }
 
 p {
